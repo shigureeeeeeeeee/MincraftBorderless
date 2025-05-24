@@ -1,0 +1,35 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.dll
+*.so
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+Debug/
+Release/
+build/
+bin/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+
+# IDE
+.vscode/
